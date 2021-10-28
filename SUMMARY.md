@@ -9,7 +9,7 @@
 ## Getting Started
 
 * [Requirements](getting-started/requirements.md)
-* [Docker](getting-started/docker.md)
+* [Installing with Docker](getting-started/installing-with-docker.md)
 * [Hello World](getting-started/hello-world.md)
 * [Hello Outside World](getting-started/hello-outside-world.md)
 
