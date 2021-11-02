@@ -1,9 +1,3 @@
----
-description: >-
-  Note: this feature requires a paid license. Please see 'Free vs. Paid' for a
-  summary of the differences between the two.
----
-
 # Users & Channels
 
 ## **Users**

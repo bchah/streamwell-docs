@@ -4,7 +4,7 @@
 
 * [Welcome to Streamwell](README.md)
 * [Privacy](welcome/privacy.md)
-* [Free vs. Paid](welcome/free-vs.-paid.md)
+* [Commercial Use](welcome/commercial-use.md)
 
 ## Getting Started
 
@@ -13,19 +13,16 @@
 * [Hello World](getting-started/hello-world.md)
 * [Hello Outside World](getting-started/hello-outside-world.md)
 
-## Basic Features
+## How to Streamwell
 
-* [Streaming](basic-features/streaming/README.md)
-  * [Streaming Engine](basic-features/streaming/streaming-engine.md)
-* [Recording](basic-features/recording.md)
-* [File Sharing](basic-features/file-sharing.md)
-* [Statistics](basic-features/statistics.md)
-
-## Premium Features
-
-* [Users & Channels](premium-features/users-and-channels.md)
-* [Customization](premium-features/customization.md)
-* [Text & Video Chat](premium-features/text-and-video-chat.md)
+* [Streaming](how-to-streamwell/streaming/README.md)
+  * [Streaming Engine](how-to-streamwell/streaming/streaming-engine.md)
+* [Customization](how-to-streamwell/customization.md)
+* [Users & Channels](how-to-streamwell/users-and-channels.md)
+* [Text & Video Chat](how-to-streamwell/text-and-video-chat.md)
+* [Recording](how-to-streamwell/recording.md)
+* [File Sharing](how-to-streamwell/file-sharing.md)
+* [Statistics](how-to-streamwell/statistics.md)
 
 ## Help and Support
 
