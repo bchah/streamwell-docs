@@ -7,5 +7,3 @@ With File Sharing enabled in Administration -> Server -> Settings, each channel 
 Choose a file to view it in the browser (if it is a compatible media file), or use the buttons on the right to direct download, copy a direct public link or delete the file. There is currently a 250MB file limit but a future release may support larger files and multi-part uploads.
 
 ![](<../.gitbook/assets/Screen Shot 2021-10-28 at 2.00.33 PM.jpg>)
-
-Note: If you are on the paid version of Streamwell, users with a 'Creator' role can also manage the file uploads on each channel.

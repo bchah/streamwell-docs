@@ -8,7 +8,7 @@ The core functionality of Streamwell is **free of charge** for personal, non-com
 * Create and share a public stream view link
 * Upload files and share direct download links
 
-Streamwell is the product of countless nights of coding, testing and refining by a one-person team. Please help us to sustain these efforts by purchasing a license key at [www.streamwell.net](https://beamwell.com/streamwell) :relaxed:&#x20;
+Streamwell is the product of countless nights of coding, testing and refining by a one-person team. Please help us to sustain these efforts by purchasing a license key at [www.streamwell.net](https://streamwell.net) :relaxed:&#x20;
 
 A license key will let you:
 

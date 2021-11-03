@@ -10,5 +10,3 @@ You are free to leave the page while the recording is active. When you stop the 
 
 Note: A minimum of 12GB disk space is required to begin a recording. If you don't see a REC button, either you have not enabled recordings or your stream is not live! If you stop and start your stream a bunch while recording, it could start acting weird but it will let you know there was a problem and attempt to save whatever it can.
 
-Note: If you are on the paid version of Streamwell, users with a 'Creator' role can also manage the recordings on each channel.
-

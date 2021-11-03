@@ -16,7 +16,7 @@ Once enabled, joining the video chat will allow you to select a video and audio 
 
 ![](<../.gitbook/assets/Screen Shot 2021-10-28 at 1.11.02 PM.jpg>)
 
-Hover over a chat stream to reveal the media controls. Unlike traditional meeting applications, it is up to each user who they listen to. Use the volume toggle to unmute the participants you would like to hear. You can also reload the chat stream if there is an issue, or 'promote' it up to the main player:
+Hover over a chat stream to reveal the media controls.  You can mute/unmute the chat stream, reload the chat stream if there is an issue, or 'promote' it up to the main player:
 
 ![](<../.gitbook/assets/Screen Shot 2021-10-28 at 1.12.02 PM.jpg>)
 
