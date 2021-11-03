@@ -1,5 +1,13 @@
 # Release Notes
 
+v1.0.10 - November 3, 2021
+
+* Improvements to video chat
+* Expand free license features
+* Fixed issues with iOS 15 / 15.1
+
+
+
 v1.0.9 - October 19, 2021
 
 Fixes:

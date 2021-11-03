@@ -1,4 +1,4 @@
-# Docker
+# Installing with Docker
 
 For ease of deployment, Streamwell works with **Docker**. This lets you deploy or update a server on any hardware or virtual machine, in seconds. Docker can be installed on your platform of choice for free at [www.docker.com](http://www.docker.com).
 
@@ -56,8 +56,13 @@ _-v /your/path/to/RECORDINGS:/rec_
 
 _-v /your/path/to/FILES:/files_
 
-You can even store the database outside of the container:
-
-_-v /your/path/to/DATABASE:/var/lib/mysql _(note: if you store the database outside of the container, you must update it manually by running the update .SQL scripts in order starting from the version after the one you are updating from. The update scripts are located in the root directory of the container. Otherwise, just backup before you update, restore the database in the web admin and it will automatically update like magic.)
-
 BEST PRACTICE: Once you figure out the run command for your system, tuck it away somewhere so you can easily re-deploy whenever you [Update Streamwell](../help-and-support/how-to-update.md)\
+
+
+### Storing the Database
+
+You can store the database outside of the container in cases where you either wish to back it up manually, or if you are using the free version of Streamwell but require data persistence:
+
+_-v /your/path/to/DATABASE:/var/lib/mysql_
+
+_Nota Bene: _If you store the database outside of the container, you must update it manually by running the update .SQL scripts in order starting from the version after the one you are updating from. The update scripts are located in the root directory of the container and can be applied using the MySQL root user (open for local access only) or the 'streamwell' user, secured by the secret key you provided when you ran the container. If you have a license key, just backup before you update the container, restore the database in the web admin and it will automatically update the schema like magic :man\_mage:

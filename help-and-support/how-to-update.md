@@ -2,7 +2,7 @@
 
 **You can update Streamwell in 2 minutes or less!**
 
-**1.** Backup the database under Administration -> Server -> Database -> Backup. It will produce a .SQL file with lots of text in it.
+**1.** Backup the database under Administration -> Server -> Database -> Backup. It will produce a .SQL file with lots of text in it. Note that the free version of Streamwell does not include the database backup feature as it is for personal use only, therefore data persistence should not matter. If you require data persistence on the free version, make sure you are storing your database outside of the container (See [Installing with Docker](../getting-started/installing-with-docker.md#storing-the-database) for more on how to do this)
 
 **2.** Stop and remove the running container on the server:
 
