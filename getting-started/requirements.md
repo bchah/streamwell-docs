@@ -7,6 +7,13 @@
 * A fast, wired network connection (Your server needs a hefty highway)
 * Access to your modem/router port forwarding settings
 
+**Web Client**
+
+* Google Chrome is recommended for the best experience
+* Safari, Firefox or Edge are also compatible for most functionality
+* Video Chat works in Chrome & Safari only for now
+* Screen Sharing works in Chrome only for now
+
 **Network Ports**
 
 * 80/443 (Web Interface HTTP/HTTPS)
